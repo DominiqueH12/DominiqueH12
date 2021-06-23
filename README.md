@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DominiqueH12
-- 👀 I’m - Interested in improving my understanding of CS. Curious about front-end development. Currently trying to wrap my head around fundamental CS knowledge before going into more specific frond-end knowledge
+- 👀 I’m Interested - In improving my understanding of CS. Curious about front-end development. Currently trying to wrap my head around fundamental CS knowledge before going into more specific frond-end knowledge
 - 🌱 I’m currently learning - Harvard's CS50x
 - 💞️ I’m looking to collaborate on - Any CS50x assignments
 - 📫 How to reach me ...
